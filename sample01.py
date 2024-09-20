@@ -1,5 +1,11 @@
-print("Hello, Phthon")
-print("Hello, Phthon")
-print("Hello, Phthon")
-print("Hello, Phthon")
 
+
+print('hello python!!')
+
+
+print('hello python!!')
+print('hello python!!')
+print('hello python!!')
+
+print('hello python!!')
+print('hello python!!')
